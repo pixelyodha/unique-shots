@@ -188,7 +188,7 @@ export default function Home() {
           <a className="font-body-md text-body-md text-on-surface-variant hover:text-primary transition-colors" href="#">Privacy</a>
         </div>
         <div className="font-body-md text-body-md text-on-surface-variant">
-          © 2024 UNIQUESHOTS. ALL RIGHTS RESERVED.
+          © 2026 UNIQUESHOTS. ALL RIGHTS RESERVED.
         </div>
       </footer>
     </>
