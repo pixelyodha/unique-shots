@@ -182,10 +182,9 @@ export default function Home() {
           UNIQUESHOTS
         </div>
         <div className="flex space-x-8 mb-6 md:mb-0">
-          <a className="font-body-md text-body-md text-on-surface-variant hover:text-primary transition-colors" href="#">Instagram</a>
-          <a className="font-body-md text-body-md text-on-surface-variant hover:text-primary transition-colors" href="#">YouTube</a>
-          <a className="font-body-md text-body-md text-on-surface-variant hover:text-primary transition-colors" href="#">Contact</a>
-          <a className="font-body-md text-body-md text-on-surface-variant hover:text-primary transition-colors" href="#">Privacy</a>
+          <a className="font-body-md text-body-md text-on-surface-variant hover:text-primary transition-colors" href="https://www.instagram.com/uniqueshots.1/">Instagram</a>
+          <a className="font-body-md text-body-md text-on-surface-variant hover:text-primary transition-colors" href="https://www.youtube.com/@Uniqueshots01">YouTube</a>
+          <a className="font-body-md text-body-md text-on-surface-variant hover:text-primary transition-colors" href="https://wa.me/12896233551" target="_blank" rel="noopener noreferrer">Contact</a>
         </div>
         <div className="font-body-md text-body-md text-on-surface-variant">
           © 2026 UNIQUESHOTS. ALL RIGHTS RESERVED.
