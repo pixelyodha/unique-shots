@@ -73,7 +73,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-12 gap-gutter items-center">
           <div className="md:col-span-5 reveal-on-scroll">
             <div className="img-zoom-container ghost-border p-4 relative">
-              <img alt="" className="w-full h-auto object-cover grayscale hover:grayscale-0 transition-all duration-1000 img-zoom" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCXHdCHW8nU-HnC-agmK3cBo5LEeifGuqSkrvrMyxCt5qcEPPnygpbSLSB75HAqDyIGsc4XGnj1zXf64sYOWr6pxmA9t6ho3PzBSqUYwNT5d_Fv1sQKEdQZ0lNmMOxCDACwgnB06SxCFRjvfyE9cAxFGMYc_VstYQKGHaUsO3adaBbK9tMH8QwI_NiHdvR0WC0hniPML3hPTxdWnJtUGOFUHR8cgLnmRwCff4jByTf6vqJPy89GMDuSSO28SmT5PqKSqsr5mLpU-0JM" />
+              <img alt="" className="w-full h-auto object-cover grayscale hover:grayscale-0 transition-all duration-1000 img-zoom" src="/g1.jpg" />
               <div className="absolute -bottom-6 -right-6 w-32 h-32 border-r border-b border-primary/30"></div>
             </div>
           </div>
@@ -87,7 +87,7 @@ export default function Home() {
                 Led by Gurvir Singh, Uniqueshots transcends traditional wedding documentation. Operating across Canada and the USA, we approach each event as a high-fashion editorial combined with a cinematic masterpiece.
               </p>
               <p>
-                Our philosophy relies on intentional shadows, profound contrast, and capturing the authentic, unscripted moments that define absolute luxury. We don't just record the day; we craft an enduring legacy.
+                Our philosophy relies on intentional shadows, profound contrast, and capturing the authentic, unscripted moments that define absolute luxury. We don&apos;t just record the day; we craft an enduring legacy.
               </p>
             </div>
             <div className="mt-12 flex items-center space-x-6">
@@ -114,27 +114,27 @@ export default function Home() {
           </a>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-12 gap-gutter h-[800px]">
-          <div className="md:col-span-8 h-full img-zoom-container relative group reveal-on-scroll">
-            <img alt="" className="w-full h-full object-cover img-zoom" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDmUaFE8z8zZ5g6D732O6fraypmhRzGYf4JX-U_nfwVvkCYHZDB3o5x3Cn-TYpwRvPE0qJMahEnhlzXCMDjgtqHwhRF3BS8YpbmOxi9BuIGqze4iG2cACUdNRmpsKELD9Kd3FoE-95jmQBGI5Rh4BxI5ZcOMWY2l30h4aIyScwiJTcBQPZayOkJVuG-nbWT3d995AkENWVczavfoF6KKkYaMnrvl-QeJ2nn9iF7kiVmptORlMGDN3r1JEPqgoHHmSfrhgMncbu_7eeI" />
+          <div className="md:col-span-8 h-full min-h-0 img-zoom-container relative group reveal-on-scroll">
+            <img alt="" className="w-full h-full object-cover img-zoom" src="/g2.jpg" />
             <div className="absolute inset-0 bg-black/20 group-hover:bg-transparent transition-colors duration-700"></div>
             <div className="absolute bottom-8 left-8">
-              <span className="font-label-caps text-white/70 block mb-2">The Grandeur</span>
-              <h3 className="font-headline-md text-white">NYC Plaza</h3>
+              <span className="font-label-caps text-white/70 block mb-2">Toronto, Ontario</span>
+              <h3 className="font-headline-md text-white">The City</h3>
             </div>
           </div>
-          <div className="md:col-span-4 h-full flex flex-col gap-gutter">
-            <div className="flex-1 img-zoom-container relative group reveal-on-scroll ghost-border p-2" style={{ transitionDelay: "100ms" }}>
-              <img alt="" className="w-full h-full object-cover img-zoom" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCXHdCHW8nU-HnC-agmK3cBo5LEeifGuqSkrvrMyxCt5qcEPPnygpbSLSB75HAqDyIGsc4XGnj1zXf64sYOWr6pxmA9t6ho3PzBSqUYwNT5d_Fv1sQKEdQZ0lNmMOxCDACwgnB06SxCFRjvfyE9cAxFGMYc_VstYQKGHaUsO3adaBbK9tMH8QwI_NiHdvR0WC0hniPML3hPTxdWnJtUGOFUHR8cgLnmRwCff4jByTf6vqJPy89GMDuSSO28SmT5PqKSqsr5mLpU-0JM" />
+          <div className="md:col-span-4 h-full min-h-0 flex flex-col gap-gutter">
+            <div className="flex-1 min-h-0 img-zoom-container relative group reveal-on-scroll ghost-border p-2" style={{ transitionDelay: "100ms" }}>
+              <img alt="" className="w-full h-full object-cover img-zoom" src="/g1.jpg" />
               <div className="absolute bottom-6 left-6">
-                <span className="font-label-caps text-white/70 block mb-1">Intimate</span>
+                <span className="font-label-caps text-white/70 block mb-1">traditional</span>
                 <h3 className="font-headline-md text-[24px] text-white">Portraits</h3>
               </div>
             </div>
-            <div className="flex-1 img-zoom-container relative group reveal-on-scroll" style={{ transitionDelay: "200ms" }}>
-              <img alt="" className="w-full h-full object-cover img-zoom" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCR5L8EaIqfU13SoOo0xCvKGnw1Dvmlehter41OXusQpYhG-0PAN1U6kEzQ3zzHVscYhbarfihnGIIaswmCn1xOl_ycgcDAEgWq8U237OCPYwje9wlIlC-uj7H9LJRQm2TrQjKXN_Hy8kXnvaoF1SjObdfK5Aw0uXqDOtXMa9YAKGhobqdvjyD6hw7LN1sOb5HF-HupQ8d8zbuGt6YN4SQWQdWsQYubVz9EyBXOWtI2YC7HE9k5f22tIdObmtyLEFKc9j_ZyH-nKa8Z" />
+            <div className="flex-1 min-h-0 img-zoom-container relative group reveal-on-scroll" style={{ transitionDelay: "200ms" }}>
+              <img alt="" className="w-full h-full object-cover img-zoom" src="/g3.jpg" />
               <div className="absolute bottom-6 left-6">
-                <span className="font-label-caps text-white/70 block mb-1">Golden Hour</span>
-                <h3 className="font-headline-md text-[24px] text-white">Tuscany</h3>
+                <span className="font-label-caps text-white/70 block mb-1">Unscripted</span>
+                <h3 className="font-headline-md text-[24px] text-white">Joy</h3>
               </div>
             </div>
           </div>
