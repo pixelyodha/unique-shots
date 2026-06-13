@@ -56,7 +56,7 @@ export default function Home() {
           <h1 className="font-display-lg text-[48px] md:text-display-lg text-on-background mb-8 reveal-on-scroll" style={{ transitionDelay: "200ms" }}>
             Capturing Forever, <br /><span className="italic text-surface-variant">One Frame at a Time</span>
           </h1>
-          <a className="mt-8 font-label-caps text-label-caps uppercase btn-champagne px-10 py-5 reveal-on-scroll inline-block" href="#contact" style={{ transitionDelay: "400ms" }}>
+          <a className="mt-8 font-label-caps text-label-caps uppercase btn-champagne px-10 py-5 reveal-on-scroll inline-block" href="https://wa.me/12896233551" target="_blank" rel="noopener noreferrer" style={{ transitionDelay: "400ms" }}>
             Inquire for 2026 Dates
           </a>
         </div>
@@ -171,7 +171,7 @@ export default function Home() {
             <p className="font-body-md text-on-surface-variant flex-grow mb-8">
               Comprehensive photo and video coverage by our master team, ensuring a cohesive aesthetic across all visual mediums.
             </p>
-            <div className="font-label-caps text-primary/60 border-t border-white/10 pt-6 mt-auto">Custom Quote</div>
+            <div className="font-label-caps text-primary/60 border-t border-white/10 pt-6 mt-auto"><a href="https://wa.me/12896233551" target="_blank" rel="noopener noreferrer">Custom Quote</a></div>
           </div>
         </div>
       </section>
